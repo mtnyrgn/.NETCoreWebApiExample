@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\myorgun\\source\\repos\\NetCoreWebApiExample\\NetCoreWebApiExample\\NetCoreWebApiExample.csproj",
-      "projectName": "NetCoreWebApiExample",
-      "projectPath": "C:\\Users\\myorgun\\source\\repos\\NetCoreWebApiExample\\NetCoreWebApiExample\\NetCoreWebApiExample.csproj",
+      "projectUniqueName": "C:\\Users\\myorgun\\Desktop\\MetinGithub\\.NETCoreWebApiExample\\NetCoreWebApiExample\\API.csproj",
+      "projectName": "API",
+      "projectPath": "C:\\Users\\myorgun\\Desktop\\MetinGithub\\.NETCoreWebApiExample\\NetCoreWebApiExample\\API.csproj",
       "packagesPath": "C:\\Users\\myorgun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\myorgun\\source\\repos\\NetCoreWebApiExample\\NetCoreWebApiExample\\obj\\",
+      "outputPath": "C:\\Users\\myorgun\\Desktop\\MetinGithub\\.NETCoreWebApiExample\\NetCoreWebApiExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\myorgun\\AppData\\Roaming\\NuGet\\NuGet.Config",
