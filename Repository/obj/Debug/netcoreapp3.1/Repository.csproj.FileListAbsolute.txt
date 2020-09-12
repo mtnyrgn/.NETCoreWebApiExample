@@ -1,0 +1,5 @@
+C:\Users\myorgun\Desktop\MetinGithub\.NETCoreWebApiExample\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\myorgun\Desktop\MetinGithub\.NETCoreWebApiExample\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\myorgun\Desktop\MetinGithub\.NETCoreWebApiExample\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Users\myorgun\Desktop\MetinGithub\.NETCoreWebApiExample\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\myorgun\Desktop\MetinGithub\.NETCoreWebApiExample\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
